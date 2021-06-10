@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">TestIntentFilter</string>
+    <string name="text_btn">Go to calculator</string>
 </resources>
